@@ -18,7 +18,7 @@ This project demonstrates real-world retail operations knowledge combined with c
 ## How to Run
 
 # ======================
-# STEP 6 + STEP 7 (All Commands)
+# *Heads up* All Commands + Step Order)
 # ======================
 
 # Go into your project folder
@@ -43,12 +43,3 @@ python main.py
 streamlit run app.py
 
 # ======================
-# Push to GitHub
-# ======================
-
-git init
-git add .
-git commit -m "Initial commit: HEB-style inventory reconciler"
-git branch -M main
-git remote add origin https://github.com/apacheclient/heb-inventory-reconciler.git
-git push -u origin main
