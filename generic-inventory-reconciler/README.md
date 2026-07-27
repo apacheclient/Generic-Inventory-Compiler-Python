@@ -18,7 +18,7 @@ This project demonstrates real-world retail operations knowledge combined with c
 ## How to Run
 
 # ======================
-# *Heads up* All Commands + Step Order)
+# *Heads up* All Commands + Step Order
 # ======================
 
 # Go into your project folder
