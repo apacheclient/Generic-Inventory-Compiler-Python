@@ -43,3 +43,11 @@ python main.py
 streamlit run app.py
 
 # ======================
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python sample_data_generator.py
+python main.py
+streamlit run app.py
