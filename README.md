@@ -16,6 +16,8 @@ This project demonstrates real-world retail operations knowledge combined with c
 - Export results to CSV or Excel
 - Includes realistic grocery sample data
 
+Note: date folder will be empty, you will fill the folder based off running the script
+
 ## Setup (Run in Order)
 
 ```bash
